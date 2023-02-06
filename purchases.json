@@ -1,0 +1,36 @@
+[{
+    "_id": 1,
+    "user_id": 1,
+    "item": "book",
+    "price": 10
+},
+{
+    "_id": 2,
+    "user_id": 1,
+    "item": "pen",
+    "price": 5
+},
+{
+    "_id": 3,
+    "user_id": 2,
+    "item": "book",
+    "price": 15
+},
+{
+    "_id": 4,
+    "user_id": 2,
+    "item": "pen",
+    "price": 6
+},
+{
+    "_id": 5,
+    "user_id": 3,
+    "item": "book",
+    "price": 20
+},
+{
+    "_id": 6,
+    "user_id": 3,
+    "item": "pen",
+    "price": 7
+}]
